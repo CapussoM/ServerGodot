@@ -1,4 +1,4 @@
-extends Node2D
+extends Node
 
 export(int) var match_size
 
